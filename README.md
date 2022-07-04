@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**brux-defender/brux-defender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <hr width="69%" height="2px">
 
